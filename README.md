@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 Learning forks I used:
-https://github.com/Oyd72/advanced-python-3912165
-https://github.com/Oyd72/Udemy-R-courses
-https://github.com/Oyd72/David-Langer
-https://github.com/Oyd72/ggplot2-book
+* https://github.com/Oyd72/advanced-python-3912165
+* https://github.com/Oyd72/Udemy-R-courses
+* https://github.com/Oyd72/David-Langer
+* https://github.com/Oyd72/ggplot2-book
 <!--
 **Oyd72/Oyd72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
